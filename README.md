@@ -448,7 +448,7 @@ classDiagram
 
     %% Asociación de Pedido con enum
     Pedido --> EstadoPedido
-
+```
 
 **Reglas:**
 - Un pedido puede tener un envío asociado (relación 1–1 opcional)
