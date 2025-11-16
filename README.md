@@ -377,6 +377,8 @@ Permite con el "0" se cierre la ejecucion del programa
 
 ## Modelo de Datos
 
+
+```mermaid
 classDiagram
     class Base {
         -id: long
